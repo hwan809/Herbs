@@ -1,0 +1,9 @@
+name: Herbs
+author: vivace
+version: 1.0
+main: me.vivace.herbs.Main
+description: 
+api-version: 1.12
+commands:
+    약재:
+        usage: /<commands>
